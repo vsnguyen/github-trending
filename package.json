@@ -13,9 +13,6 @@
     "type": "git",
     "url": "git@github.com:akoenig/github-trending.git"
   },
-  "engines": {
-    "node": "~0.10.31"
-  },
   "keywords": [
     "github",
     "trending"
